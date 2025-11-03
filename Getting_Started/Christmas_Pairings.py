@@ -35,3 +35,4 @@ for i in range(len(names)):#pair each person with the next person in the list, w
 print("Here are the pairings:")
 for giver, receiver in pairings.items():
     print(f"{giver} gives to {receiver}")
+
